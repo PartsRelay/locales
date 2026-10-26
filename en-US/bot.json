@@ -13,5 +13,7 @@
   "empty": "{category}: no parts found for this vehicle.",
   "vehicle-not-found": "We couldn't identify the vehicle {plate}. Check the registration plate and send the request again.",
   "not-matched": "{vehicle} identified, but no part category matches your request. Send it again with a more specific part name, for example \"oil filter\".",
-  "failed": "We couldn't complete the search for {plate}. The service is temporarily unavailable. Please send the request again in a few minutes."
+  "failed": "We couldn't complete the search for {plate}. The service is temporarily unavailable. Please send the request again in a few minutes.",
+  "results": "{vehicle} · {plate} · {query}",
+  "results-sent": "Results sent for {plate} · {query}."
 }

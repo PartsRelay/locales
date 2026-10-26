@@ -13,5 +13,7 @@
   "empty": "{category}: nessun ricambio trovato per questo veicolo.",
   "vehicle-not-found": "Non siamo riusciti a identificare il veicolo {plate}. Controlla la targa e invia di nuovo la richiesta.",
   "not-matched": "Veicolo identificato: {vehicle}. Nessuna categoria di ricambi corrisponde alla richiesta. Inviala di nuovo con il nome del ricambio, ad esempio \"filtro olio\".",
-  "failed": "Non siamo riusciti a completare la ricerca per {plate}. Il servizio è temporaneamente non disponibile. Invia di nuovo la richiesta tra qualche minuto."
+  "failed": "Non siamo riusciti a completare la ricerca per {plate}. Il servizio è temporaneamente non disponibile. Invia di nuovo la richiesta tra qualche minuto.",
+  "results": "{vehicle} · {plate} · {query}",
+  "results-sent": "Risultati inviati per {plate} · {query}."
 }
