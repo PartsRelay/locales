@@ -21,7 +21,8 @@
     "active": "No active contacts",
     "blocked": "No blocked contacts",
     "manager": "Add the WhatsApp number of a workshop so it can search parts by message.",
-    "viewer": "Owners and admins add the WhatsApp numbers of the workshops."
+    "viewer": "Owners and admins add the WhatsApp numbers of the workshops.",
+    "search": "No contacts match the search"
   },
   "columns": {
     "contact": "Contact",
@@ -30,7 +31,8 @@
     "searches": "Searches",
     "month": "This month",
     "last-search": "Last search",
-    "actions": "Actions"
+    "actions": "Actions",
+    "joined": "Joined"
   },
   "searches-link": "{count, plural, one {# search by {name}} other {# searches by {name}}}",
   "status": {
@@ -86,5 +88,16 @@
     "blocked": "{name} is blocked.",
     "unblocked": "{name} is unblocked and can search again.",
     "removed": "{name} was deleted."
+  },
+  "search": {
+    "label": "Search",
+    "placeholder": "Name or phone"
+  },
+  "channels": {
+    "title": "Where workshops write",
+    "description": "Workshops send their requests to this number. Share the link so they can start a chat.",
+    "copy": "Copy link",
+    "copied": "Link copied.",
+    "open": "Open chat"
   }
 }

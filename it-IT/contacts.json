@@ -21,7 +21,8 @@
     "active": "Nessun contatto attivo",
     "blocked": "Nessun contatto bloccato",
     "manager": "Aggiungi il numero WhatsApp di un'officina perché possa cercare ricambi via messaggio.",
-    "viewer": "I numeri WhatsApp delle officine li aggiungono il proprietario e gli amministratori."
+    "viewer": "I numeri WhatsApp delle officine li aggiungono il proprietario e gli amministratori.",
+    "search": "Nessun contatto corrisponde alla ricerca"
   },
   "columns": {
     "contact": "Contatto",
@@ -30,7 +31,8 @@
     "searches": "Ricerche",
     "month": "Questo mese",
     "last-search": "Ultima ricerca",
-    "actions": "Azioni"
+    "actions": "Azioni",
+    "joined": "Aggiunto il"
   },
   "searches-link": "{count, plural, one {# ricerca di {name}} other {# ricerche di {name}}}",
   "status": {
@@ -86,5 +88,16 @@
     "blocked": "{name} è bloccato.",
     "unblocked": "{name} è sbloccato e può cercare di nuovo.",
     "removed": "{name} è stato eliminato."
+  },
+  "search": {
+    "label": "Cerca",
+    "placeholder": "Nome o numero"
+  },
+  "channels": {
+    "title": "Dove scrivono le officine",
+    "description": "Le officine mandano le richieste a questo numero. Condividi il link per far loro aprire la chat.",
+    "copy": "Copia il link",
+    "copied": "Link copiato.",
+    "open": "Apri la chat"
   }
 }

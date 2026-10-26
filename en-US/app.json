@@ -8,5 +8,10 @@
   "not-found": {
     "title": "Page not found",
     "description": "The address may be wrong, or the page no longer exists."
+  },
+  "legal": {
+    "help": "Help centre",
+    "privacy": "Privacy",
+    "terms": "Terms"
   }
 }

@@ -1,6 +1,6 @@
 {
   "title": "Searches",
-  "description": "Every parts search of the company, from the web or WhatsApp, in one queue.",
+  "description": "Keep your counter moving. Start a search or pick up the latest workshop requests.",
   "status": {
     "running": "Searching",
     "done": "Done",
@@ -25,7 +25,7 @@
     "open": "Open the search of {plate}"
   },
   "columns": {
-    "plate": "Plate",
+    "plate": "Plate or VIN",
     "parts": "Part and vehicle",
     "status": "Status",
     "channel": "Channel",
@@ -37,20 +37,32 @@
     "everyone": "Everyone",
     "members": "Team",
     "contacts": "WhatsApp contacts",
-    "selected": "Selected requester"
+    "selected": "Selected requester",
+    "search": "Plate or VIN",
+    "search-placeholder": "Find plate or VIN",
+    "status": "Status",
+    "period": "Period",
+    "channel": "Channel",
+    "all": "All",
+    "all-time": "All time",
+    "days": "Last {days} days"
   },
   "empty": {
     "title": "No searches yet",
     "description": "When your team or a WhatsApp contact searches a part, its vehicle, parts and result appear here.",
-    "filtered": "No searches from this requester",
-    "filtered-description": "Clear the filter to see every search of the company.",
-    "clear": "Clear the filter"
+    "filtered": "No searches match the filters",
+    "filtered-description": "Change or clear the filters to see every search of the company.",
+    "clear": "Clear filters",
+    "example": "For example: GH482KL · Front brake pads",
+    "start": "Start a search",
+    "invite": "Invite your team",
+    "connect": "Connect workshops"
   },
   "new": {
     "open": "New search",
     "eyebrow": "New request · Web",
     "title": "Find the part.",
-    "description": "Enter the registration plate and the part you need. The result stays in the company search queue.",
+    "description": "Enter the registration plate or the VIN and the part you need. The result stays in the company search queue.",
     "plate": "Registration plate",
     "plate-hint": "Spaces, dots and dashes are fine.",
     "plate-placeholder": "AB123CD",
@@ -67,8 +79,18 @@
       "plate-required": "Enter the registration plate.",
       "plate": "Check the plate: 4 to 8 letters and digits.",
       "query-required": "Enter the part you need, such as front brake pads.",
-      "query": "Describe the part in 2 to 200 characters."
-    }
+      "query": "Describe the part in 2 to 200 characters.",
+      "vin-required": "Enter the VIN.",
+      "vin": "Check the VIN: 17 letters and digits, without I, O and Q."
+    },
+    "identify": "Identify the vehicle by",
+    "by": {
+      "plate": "Plate",
+      "vin": "VIN"
+    },
+    "vin": "VIN",
+    "vin-hint": "17 letters and digits, without I, O and Q.",
+    "vin-placeholder": "WVWZZZAUZHW204411"
   },
   "fitment": "Results are identification guidance. Always confirm vehicle fitment and current price before purchase.",
   "detail": {
@@ -77,8 +99,9 @@
     "back": "Back to searches",
     "vin": "VIN",
     "no-vehicle": "Vehicle not identified",
-    "retry": "New search with this plate",
-    "stale": "This search may be out of date."
+    "retry": "Search again",
+    "stale": "This search may be out of date.",
+    "query": "Part requested"
   },
   "outcome": {
     "running": {
@@ -114,5 +137,23 @@
     "original-code": "OE {code}",
     "price": "Price",
     "no-aftermarket": "No aftermarket matches."
+  },
+  "greeting": {
+    "morning": "Good morning, {name}.",
+    "afternoon": "Good afternoon, {name}.",
+    "evening": "Good evening, {name}."
+  },
+  "stats": {
+    "total": "Searches · last {days} days",
+    "done": "Completed · last {days} days",
+    "failed": "Failed · last {days} days",
+    "change": "{change, number, ::percent sign-always} vs the previous {days} days",
+    "no-previous": "No searches in the previous {days} days",
+    "done-note": "Searches with parts found",
+    "failed-note": "Vehicle not found, no category matched or failed",
+    "top": {
+      "title": "Top searchers",
+      "description": "Last {days} days · Only the owner sees this"
+    }
   }
 }

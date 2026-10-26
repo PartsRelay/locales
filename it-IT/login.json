@@ -20,5 +20,9 @@
     "cancelled": "Accesso con Google annullato.",
     "failed": "Accesso non riuscito. Riprova.",
     "google": "Accesso con Google non riuscito."
+  },
+  "legal": {
+    "consent": "Continuando accetti i <terms>Termini di servizio</terms> e confermi di aver letto la <privacy>Informativa sulla privacy</privacy>.",
+    "support": "Problemi ad accedere? <support>Contatta l'assistenza</support>"
   }
 }

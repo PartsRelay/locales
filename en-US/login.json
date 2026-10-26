@@ -20,5 +20,9 @@
     "cancelled": "Google sign in was cancelled.",
     "failed": "Sign in failed. Try again.",
     "google": "Google sign in failed."
+  },
+  "legal": {
+    "consent": "By continuing, you agree to the <terms>Terms of Service</terms> and acknowledge the <privacy>Privacy Policy</privacy>.",
+    "support": "Need help signing in? <support>Contact support</support>"
   }
 }

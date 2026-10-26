@@ -4,5 +4,6 @@
   "workspace": "Workspace",
   "company": "Company",
   "breadcrumb": "Breadcrumb",
-  "menu": "Main menu"
+  "menu": "Main menu",
+  "sections": "Sections"
 }
