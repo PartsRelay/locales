@@ -1,0 +1,12 @@
+{
+  "magic-link": {
+    "subject": "Sign in to Parts Relay",
+    "body": "Use this link to sign in to Parts Relay. It works once and expires in {minutes} minutes. If you did not ask for it, you can ignore this email.",
+    "action": "Sign in"
+  },
+  "invitation": {
+    "subject": "Join {workspace} on Parts Relay",
+    "body": "You have been invited to join {workspace} on Parts Relay as {role, select, admin {an admin} other {a viewer}}.",
+    "action": "Accept the invitation"
+  }
+}

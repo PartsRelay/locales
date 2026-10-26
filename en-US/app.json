@@ -1,0 +1,12 @@
+{
+  "go-home": "Back to home",
+  "title": "{page} · Parts Relay",
+  "error": {
+    "title": "Couldn't load the page",
+    "retry": "Try again"
+  },
+  "not-found": {
+    "title": "Page not found",
+    "description": "The address may be wrong, or the page no longer exists."
+  }
+}

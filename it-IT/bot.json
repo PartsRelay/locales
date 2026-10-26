@@ -1,0 +1,17 @@
+{
+  "unknown": "Questo numero non è abilitato su Parts Relay. Chiedi al tuo fornitore di ricambi di aggiungerlo.",
+  "format": "Inviami la targa del veicolo e i ricambi che ti servono, con un messaggio, una foto o un vocale.\n\nAd esempio:\nGH482KL filtro olio filtro aria",
+  "summary": "Cerco {plate} · {query}. Rispondi SÌ per avviare la ricerca, oppure scrivimi cosa cambiare.",
+  "unavailable": "Non siamo riusciti a leggere la tua richiesta. Inviala di nuovo tra qualche minuto.",
+  "received": "Richiesta ricevuta. Ricerca in corso…\n{plate} · {query}",
+  "caption": "{category} · {unit}",
+  "oem": "OE {code} · {description} · Prezzo: {price}",
+  "aftermarket-title": "Aftermarket:",
+  "aftermarket": "• {code} · {description} · Prezzo: {price}",
+  "no-aftermarket": "Aftermarket: nessun ricambio trovato",
+  "more": "+{count} altri",
+  "empty": "{category}: nessun ricambio trovato per questo veicolo.",
+  "vehicle-not-found": "Non siamo riusciti a identificare il veicolo {plate}. Controlla la targa e invia di nuovo la richiesta.",
+  "not-matched": "Veicolo identificato: {vehicle}. Nessuna categoria di ricambi corrisponde alla richiesta. Inviala di nuovo con il nome del ricambio, ad esempio \"filtro olio\".",
+  "failed": "Non siamo riusciti a completare la ricerca per {plate}. Il servizio è temporaneamente non disponibile. Invia di nuovo la richiesta tra qualche minuto."
+}

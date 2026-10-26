@@ -1,0 +1,24 @@
+{
+  "title": "Accedi a Parts Relay",
+  "sign-in": "Accedi",
+  "description": "Continua con Google o ricevi un link di accesso via email.",
+  "google": "Continua con Google",
+  "or": "oppure",
+  "magic-link": {
+    "email": "Email",
+    "placeholder": "nome@azienda.it",
+    "send": "Inviami un link di accesso",
+    "sent": {
+      "title": "Controlla la tua email",
+      "description": "Abbiamo inviato un link di accesso a {email}. Funziona una sola volta e scade tra {minutes} minuti.",
+      "resend": "Invia di nuovo il link",
+      "resend-in": "Invia di nuovo tra {seconds} s",
+      "edit": "Usa un'altra email"
+    }
+  },
+  "errors": {
+    "cancelled": "Accesso con Google annullato.",
+    "failed": "Accesso non riuscito. Riprova.",
+    "google": "Accesso con Google non riuscito."
+  }
+}

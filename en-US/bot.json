@@ -1,0 +1,17 @@
+{
+  "unknown": "This number is not enabled for Parts Relay. Ask your parts supplier to add it.",
+  "format": "Send me the vehicle registration plate and the parts you need, as a text, a photo or a voice message.\n\nFor example:\nGH482KL oil filter air filter",
+  "summary": "Ready to search {plate} · {query}. Reply YES to start the search, or tell me what to change.",
+  "unavailable": "We couldn't read your request right now. Please send it again in a few minutes.",
+  "received": "Request received. Searching…\n{plate} · {query}",
+  "caption": "{category} · {unit}",
+  "oem": "OE {code} · {description} · Price: {price}",
+  "aftermarket-title": "Aftermarket:",
+  "aftermarket": "• {code} · {description} · Price: {price}",
+  "no-aftermarket": "Aftermarket: none found",
+  "more": "+{count} more",
+  "empty": "{category}: no parts found for this vehicle.",
+  "vehicle-not-found": "We couldn't identify the vehicle {plate}. Check the registration plate and send the request again.",
+  "not-matched": "{vehicle} identified, but no part category matches your request. Send it again with a more specific part name, for example \"oil filter\".",
+  "failed": "We couldn't complete the search for {plate}. The service is temporarily unavailable. Please send the request again in a few minutes."
+}
