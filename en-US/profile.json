@@ -34,5 +34,15 @@
   "notices": {
     "name-saved": "Name saved.",
     "left": "You left {company} and your account was deleted."
+  },
+  "preferences": {
+    "title": "Preferences",
+    "description": "The language of Parts Relay on this device.",
+    "language": "Language"
+  },
+  "session": {
+    "title": "Session",
+    "description": "Sign out of Parts Relay on this device.",
+    "sign-out": "Sign out"
   }
 }

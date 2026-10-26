@@ -34,5 +34,15 @@
   "notices": {
     "name-saved": "Nome salvato.",
     "left": "Hai lasciato {company} e il tuo account è stato eliminato."
+  },
+  "preferences": {
+    "title": "Preferenze",
+    "description": "La lingua di Parts Relay su questo dispositivo.",
+    "language": "Lingua"
+  },
+  "session": {
+    "title": "Sessione",
+    "description": "Esci da Parts Relay su questo dispositivo.",
+    "sign-out": "Esci"
   }
 }
