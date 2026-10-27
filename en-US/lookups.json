@@ -13,6 +13,7 @@
     "whatsapp": "WhatsApp"
   },
   "searcher": {
+    "named": "{name}",
     "gone": "No longer in the company",
     "unnamed-contact": "Unnamed contact"
   },
