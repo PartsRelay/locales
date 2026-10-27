@@ -133,6 +133,8 @@
     "unit": "Unit {code}",
     "image": "Exploded view of {name}",
     "no-parts": "No parts listed for this unit.",
+    "no-category-parts": "No parts found for this vehicle in this category.",
+    "position": "Pos. {position}",
     "original-code": "OE {code}",
     "no-aftermarket": "No aftermarket matches."
   },

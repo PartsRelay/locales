@@ -133,6 +133,8 @@
     "unit": "Gruppo {code}",
     "image": "Esploso di {name}",
     "no-parts": "Nessun ricambio elencato per questo gruppo.",
+    "no-category-parts": "Nessun ricambio trovato per questo veicolo in questa categoria.",
+    "position": "Pos. {position}",
     "original-code": "OE {code}",
     "no-aftermarket": "Nessun equivalente aftermarket."
   },
