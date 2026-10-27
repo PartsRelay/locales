@@ -78,7 +78,7 @@
       "plate-required": "Inserisci la targa.",
       "plate": "Controlla la targa: da 4 a 8 lettere e cifre.",
       "query-required": "Inserisci il ricambio che ti serve, per esempio pastiglie freno anteriori.",
-      "query": "Descrivi il ricambio con 2-200 caratteri.",
+      "query": "Descrivi il ricambio con almeno 2 caratteri.",
       "vin-required": "Inserisci il telaio.",
       "vin": "Controlla il telaio: 17 lettere e cifre, senza I, O e Q."
     },

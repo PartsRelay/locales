@@ -78,7 +78,7 @@
       "plate-required": "Enter the registration plate.",
       "plate": "Check the plate: 4 to 8 letters and digits.",
       "query-required": "Enter the part you need, such as front brake pads.",
-      "query": "Describe the part in 2 to 200 characters.",
+      "query": "Describe the part in at least 2 characters.",
       "vin-required": "Enter the VIN.",
       "vin": "Check the VIN: 17 letters and digits, without I, O and Q."
     },
