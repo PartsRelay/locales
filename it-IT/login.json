@@ -5,6 +5,7 @@
   "google": "Continua con Google",
   "or": "oppure",
   "magic-link": {
+    "description": "Ricevi un link di accesso via email.",
     "email": "Email",
     "placeholder": "nome@azienda.it",
     "send": "Inviami un link di accesso",
