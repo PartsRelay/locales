@@ -51,6 +51,7 @@
   "invite": {
     "title": "Invite someone",
     "description": "They get an email with a link and sign in with Google or a link sent to the same address.",
+    "magic-link-description": "They get an email with a link and sign in with a link sent to the same address.",
     "email": "Email",
     "email-placeholder": "name@company.com",
     "role": "Role",

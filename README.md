@@ -1,6 +1,6 @@
 # Parts Relay locales
 
-Every text of Parts Relay. The core ([PartsRelay/core](https://github.com/PartsRelay/core)) mounts this repository as a git submodule at `resources/lang`, the UI ([PartsRelay/ui](https://github.com/PartsRelay/ui)) at `src/locales`. Neither app keeps texts of its own, so clone them with `--recurse-submodules`.
+Every text of Parts Relay. The core ([PartsRelay/core](https://github.com/PartsRelay/core)) mounts this repository as a git submodule at `locales`, the UI ([PartsRelay/ui](https://github.com/PartsRelay/ui)) at `src/locales`. Neither app keeps texts of its own, so clone them with `--recurse-submodules`.
 
 ## Layout
 
