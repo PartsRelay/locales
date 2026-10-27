@@ -14,8 +14,7 @@
   },
   "searcher": {
     "gone": "Non più in azienda",
-    "unnamed-contact": "Contatto senza nome",
-    "member": "Membro del team"
+    "unnamed-contact": "Contatto senza nome"
   },
   "list": {
     "title": "Coda delle ricerche",
@@ -92,7 +91,7 @@
     "vin-hint": "17 lettere e cifre, senza I, O e Q.",
     "vin-placeholder": "WVWZZZAUZHW204411"
   },
-  "fitment": "I risultati aiutano a identificare il ricambio. Verifica sempre la compatibilità con il veicolo e il prezzo aggiornato prima dell'acquisto.",
+  "fitment": "I risultati aiutano a identificare il ricambio. Verifica sempre la compatibilità con il veicolo prima dell'acquisto.",
   "detail": {
     "title": "Risultato della ricerca",
     "description": "Il veicolo, lo stato e i ricambi trovati, aggiornati mentre la ricerca procede.",
@@ -117,7 +116,7 @@
     },
     "vehicle-not-found": {
       "title": "Veicolo non trovato",
-      "description": "Il catalogo non conosce questa targa. Controllala e cerca di nuovo."
+      "description": "Il catalogo non conosce questa targa o questo telaio. Controlla e cerca di nuovo."
     },
     "not-matched": {
       "title": "Nessuna categoria corrispondente",
@@ -135,7 +134,6 @@
     "image": "Esploso di {name}",
     "no-parts": "Nessun ricambio elencato per questo gruppo.",
     "original-code": "OE {code}",
-    "price": "Prezzo",
     "no-aftermarket": "Nessun equivalente aftermarket."
   },
   "greeting": {
