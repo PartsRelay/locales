@@ -4,6 +4,7 @@
   "identity": {
     "title": "Your account",
     "description": "You sign in with this email, through Google or a sign-in link.",
+    "magic-link-description": "You sign in with this email, through a sign-in link.",
     "company": "Company",
     "role": "Role",
     "name": "Name",

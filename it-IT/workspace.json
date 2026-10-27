@@ -51,6 +51,7 @@
   "invite": {
     "title": "Invita una persona",
     "description": "Riceve un'email con un link e accede con Google o con un link inviato allo stesso indirizzo.",
+    "magic-link-description": "Riceve un'email con un link e accede con un link inviato allo stesso indirizzo.",
     "email": "Email",
     "email-placeholder": "nome@azienda.it",
     "role": "Ruolo",
