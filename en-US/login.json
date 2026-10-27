@@ -5,6 +5,7 @@
   "google": "Continue with Google",
   "or": "or",
   "magic-link": {
+    "description": "Get a sign-in link by email.",
     "email": "Email",
     "placeholder": "name@company.com",
     "send": "Email me a sign-in link",
