@@ -14,8 +14,7 @@
   },
   "searcher": {
     "gone": "No longer in the company",
-    "unnamed-contact": "Unnamed contact",
-    "member": "Team member"
+    "unnamed-contact": "Unnamed contact"
   },
   "list": {
     "title": "Search queue",
@@ -92,7 +91,7 @@
     "vin-hint": "17 letters and digits, without I, O and Q.",
     "vin-placeholder": "WVWZZZAUZHW204411"
   },
-  "fitment": "Results are identification guidance. Always confirm vehicle fitment and current price before purchase.",
+  "fitment": "Results are identification guidance. Always confirm vehicle fitment before purchase.",
   "detail": {
     "title": "Search result",
     "description": "The vehicle, the status and the parts found, updated while the search runs.",
@@ -117,7 +116,7 @@
     },
     "vehicle-not-found": {
       "title": "Vehicle not found",
-      "description": "The catalog does not know this registration plate. Check it and search again."
+      "description": "The catalog does not know this registration plate or VIN. Check it and search again."
     },
     "not-matched": {
       "title": "No category matched",
@@ -135,7 +134,6 @@
     "image": "Exploded view of {name}",
     "no-parts": "No parts listed for this unit.",
     "original-code": "OE {code}",
-    "price": "Price",
     "no-aftermarket": "No aftermarket matches."
   },
   "greeting": {
