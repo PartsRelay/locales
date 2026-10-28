@@ -10,7 +10,7 @@ Every text of Parts Relay. The core ([PartsRelay/core](https://github.com/PartsR
 
 - One folder per locale (`en-US`, `it-IT`). Every locale has the same files and the same keys as `en-US`.
 - The namespace is the first segment of a key: `t('lookups.list.count')` reads `list.count` from `<locale>/lookups.json`.
-- `emails` and `bot` (WhatsApp replies) belong to the core, the other namespaces to the UI.
+- `emails` and `assistant` (WhatsApp replies) belong to the core, the other namespaces to the UI.
 - Keys are kebab-case.
 - No JSON or YAML file at the repository root: the core would load it as a locale.
 
