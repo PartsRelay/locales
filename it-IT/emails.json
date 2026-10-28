@@ -1,12 +1,18 @@
 {
+  "link-hint": "Se il pulsante non funziona, copia questo link nel browser:",
   "magic-link": {
     "subject": "Accedi a Parts Relay",
-    "body": "Usa questo link per accedere a Parts Relay. Funziona una sola volta e scade tra {minutes} minuti. Se non l'hai richiesto, puoi ignorare questa email.",
-    "action": "Accedi"
+    "title": "Accedi a Parts Relay",
+    "body": "Usa il pulsante qui sotto per accedere. Il link funziona una sola volta e scade tra {minutes} minuti.",
+    "action": "Accedi",
+    "note": "Se non hai chiesto di accedere, puoi ignorare questa email."
   },
   "invitation": {
     "subject": "Entra in {workspace} su Parts Relay",
-    "body": "Ti hanno invitato a entrare in {workspace} su Parts Relay come {role, select, admin {amministratore} other {visualizzatore}}.",
-    "action": "Accetta l'invito"
+    "title": "Hai ricevuto un invito",
+    "role": "{role, select, admin {Amministratore} other {Visualizzatore}}",
+    "body": "{role, select, admin {Come amministratore puoi gestire i contatti e invitare o rimuovere i visualizzatori.} other {Come visualizzatore puoi seguire le ricerche, avviarne di tue e vedere i contatti.}}",
+    "action": "Accetta l'invito",
+    "note": "L'invito scade tra {days} giorni. Se non te lo aspettavi, puoi ignorare questa email."
   }
 }
