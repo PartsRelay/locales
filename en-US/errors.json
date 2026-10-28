@@ -27,6 +27,7 @@
   "workspace-role-not-managed": "You cannot manage this role.",
   "workspace-owner": "The owner cannot delete the account: hand over the company or delete it.",
   "locale-not-supported": "This language is not available.",
+  "workspace-name-not-allowed": "The company name cannot contain < or >.",
   "role-change-not-allowed": "Roles cannot be changed, you can only transfer ownership.",
   "organization-not-found": "This company no longer exists.",
   "you-cannot-leave-the-organization-as-the-only-owner": "As the owner you cannot leave: hand over the company or delete it.",
