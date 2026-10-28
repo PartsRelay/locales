@@ -1,12 +1,18 @@
 {
+  "link-hint": "If the button does not work, copy this link into your browser:",
   "magic-link": {
     "subject": "Sign in to Parts Relay",
-    "body": "Use this link to sign in to Parts Relay. It works once and expires in {minutes} minutes. If you did not ask for it, you can ignore this email.",
-    "action": "Sign in"
+    "title": "Sign in to Parts Relay",
+    "body": "Use the button below to sign in. The link works once and expires in {minutes} minutes.",
+    "action": "Sign in",
+    "note": "If you did not ask to sign in, you can ignore this email."
   },
   "invitation": {
     "subject": "Join {workspace} on Parts Relay",
-    "body": "You have been invited to join {workspace} on Parts Relay as {role, select, admin {an admin} other {a viewer}}.",
-    "action": "Accept the invitation"
+    "title": "You have been invited",
+    "role": "{role, select, admin {Admin} other {Viewer}}",
+    "body": "{role, select, admin {As an admin you can manage contacts and invite or remove viewers.} other {As a viewer you can follow searches, run your own and see contacts.}}",
+    "action": "Accept the invitation",
+    "note": "The invitation expires in {days} days. If you were not expecting it, you can ignore this email."
   }
 }
