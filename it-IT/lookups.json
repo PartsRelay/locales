@@ -136,7 +136,7 @@
     "no-parts": "Nessun ricambio elencato per questo gruppo.",
     "no-category-parts": "Nessun ricambio trovato per questo veicolo in questa categoria.",
     "position": "Pos. {position}",
-    "original-code": "OE {code}",
+    "original-code": "OEM {code}",
     "no-aftermarket": "Nessun equivalente aftermarket."
   },
   "greeting": {
