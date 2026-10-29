@@ -5,7 +5,7 @@
   "unavailable": "Non siamo riusciti a leggere la tua richiesta. Inviala di nuovo tra qualche minuto.",
   "received": "Richiesta ricevuta. Ricerca in corso…\n{plate} · {query}",
   "caption": "{category} · {unit}",
-  "oem": "OE {code} · {description}",
+  "oem": "OEM {code} · {description}",
   "aftermarket-title": "Aftermarket:",
   "aftermarket": "• {code} · {description}",
   "no-aftermarket": "Aftermarket: nessun ricambio trovato",
