@@ -1,5 +1,7 @@
 {
   "close": "Close",
   "loading": "Loading",
-  "more": "More"
+  "more": "More",
+  "no-results": "No results",
+  "search": "Search…"
 }

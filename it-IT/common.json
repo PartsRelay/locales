@@ -1,5 +1,7 @@
 {
   "close": "Chiudi",
   "loading": "Caricamento",
-  "more": "Altro"
+  "more": "Altro",
+  "no-results": "Nessun risultato",
+  "search": "Cerca…"
 }
