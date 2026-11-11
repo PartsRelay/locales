@@ -5,6 +5,7 @@
   "save": "Save my choices",
   "reject": "Only necessary",
   "accept": "Accept all",
+  "settings": "Cookies",
   "categories": {
     "necessary": {
       "title": "Necessary",
