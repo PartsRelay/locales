@@ -43,5 +43,7 @@
   "you-are-not-allowed-to-invite-user-with-this-role": "You cannot invite people with this role.",
   "you-are-not-allowed-to-cancel-this-invitation": "You cannot revoke this invitation.",
   "invitation-limit-reached": "Too many pending invitations. Revoke some before inviting more people.",
-  "organization-membership-limit-reached": "The company has reached its member limit."
+  "organization-membership-limit-reached": "The company has reached its member limit.",
+  "checkout-not-found": "This order link is no longer valid.",
+  "checkout-closed": "This order was already confirmed or cancelled."
 }

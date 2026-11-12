@@ -15,5 +15,10 @@
   "not-matched": "{vehicle} identified, but no part category matches your request. Send it again with a more specific part name, for example \"oil filter\".",
   "failed": "We couldn't complete the search for {plate}. The service is temporarily unavailable. Please send the request again in a few minutes.",
   "results": "{vehicle} · {plate} · {query}",
-  "results-sent": "Results sent for {plate} · {query}."
+  "results-sent": "Results sent for {plate} · {query}.",
+  "order": "Want to order these parts? Choose them and confirm, no login needed.",
+  "order-button": "Choose and order",
+  "order-confirmed": "Order sent to {company} for {plate} · {query}:\n{items}",
+  "order-item": "• {quantity} × {code} · {description}",
+  "order-cancelled": "Order cancelled for {plate} · {query}. Nothing was sent to {company}."
 }
