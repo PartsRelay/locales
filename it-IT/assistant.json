@@ -15,5 +15,10 @@
   "not-matched": "Veicolo identificato: {vehicle}. Nessuna categoria di ricambi corrisponde alla richiesta. Inviala di nuovo con il nome del ricambio, ad esempio \"filtro olio\".",
   "failed": "Non siamo riusciti a completare la ricerca per {plate}. Il servizio è temporaneamente non disponibile. Invia di nuovo la richiesta tra qualche minuto.",
   "results": "{vehicle} · {plate} · {query}",
-  "results-sent": "Risultati inviati per {plate} · {query}."
+  "results-sent": "Risultati inviati per {plate} · {query}.",
+  "order": "Vuoi ordinare questi ricambi? Sceglili e conferma, senza login.",
+  "order-button": "Scegli e ordina",
+  "order-confirmed": "Ordine inviato a {company} per {plate} · {query}:\n{items}",
+  "order-item": "• {quantity} × {code} · {description}",
+  "order-cancelled": "Ordine annullato per {plate} · {query}. Non è stato inviato nulla a {company}."
 }
